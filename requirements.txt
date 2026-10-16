@@ -1,0 +1,3 @@
+discord.py
+Flask
+Werkzeug==3.0.3
